@@ -1,0 +1,1 @@
+<h1>This is project with automation tests for "https://petstore.swagger.io/#/pet" with using RestAssured</h1>
